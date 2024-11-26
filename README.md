@@ -3,10 +3,6 @@
 # 💫 About Me:
 Experienced Software Engineer passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To
-
-- 💻 Building Spring Boot applications with PostgreSQL
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-tobon-arosemena-5740121a4/) 
 
